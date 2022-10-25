@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ael-bekk&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=php,html,javascript,css,scss,dart)
 ---
 ![](https://komarev.com/ghpvc/?username=ael-bekk&label=Visitors+Count&color=brightgreen) 
+---
+[<img src='https://github.com/ael-bekk/ael-bekk/blob/main/img/download.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/el-bekkali-abdellah-a812aa241/) [<img src='https://github.com/ael-bekk/ael-bekk/blob/main/img/download2.png' height='40'>](https://leetcode.com/ael-bekk/) [<img src='https://cdn-icons-png.flaticon.com/512/1/1700.png' alt='Certificates' height='40'>](https://github.com/ablaamim/Certificates)
