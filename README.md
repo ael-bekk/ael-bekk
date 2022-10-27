@@ -30,4 +30,8 @@ Here are some ideas to get you started:
 ![Profile views](https://komarev.com/ghpvc/?username=ael-bekk&label=Visitors+Count&color=brightgreen) 
 
  # 👤 Profile :
-[<img src='https://github.com/ael-bekk/ael-bekk/blob/main/img/download.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/el-bekkali-abdellah-a812aa241/)   [<img src='https://github.com/ael-bekk/ael-bekk/blob/main/img/download2.png' height='40'>](https://leetcode.com/ael-bekk/)   [<img src='https://github.com/ael-bekk/ael-bekk/blob/main/img/download3.png' alt='codeforces' height='40'>](https://codeforces.com/profile/ael-bekk00)   [<img src='https://github.com/ael-bekk/ael-bekk/blob/main/img/download4.png' alt='codingame' height='40'>](https://www.codingame.com/profile/eb5df72bb9beb07d17dd195d9c121c207572164)
+<img src='https://github.com/ael-bekk/ael-bekk/blob/main/img/download6.jpeg' alt='gmail' height='40'> __abekkali451@gmail.com__
+<br>
+ 
+[<img src='https://github.com/ael-bekk/ael-bekk/blob/main/img/download.png' alt='linkedin' height='70'>](https://www.linkedin.com/in/el-bekkali-abdellah-a812aa241/)   [<img src='https://github.com/ael-bekk/ael-bekk/blob/main/img/download2.png' height='70'>](https://leetcode.com/ael-bekk/)   [<img src='https://github.com/ael-bekk/ael-bekk/blob/main/img/download3.png' alt='codeforces' height='70'>](https://codeforces.com/profile/ael-bekk00)   [<img src='https://github.com/ael-bekk/ael-bekk/blob/main/img/download4.png' alt='codingame' height='70'>](https://www.codingame.com/profile/eb5df72bb9beb07d17dd195d9c121c207572164)
+
