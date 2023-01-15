@@ -29,7 +29,7 @@
 # 👤 Profile :
  
 <p align='center'>
-<a href = "https://leetcode.com/ael-bekk/"><img src='https://github.com/ael-bekk/ael-bekk/blob/main/img/download2.png' height='70'></a>
+<a href = "https://leetcode.com/AlgoAce/"><img src='https://github.com/ael-bekk/ael-bekk/blob/main/img/download2.png' height='70'></a>
 <a href = "https://codeforces.com/profile/ael-bekk00"><img src='https://github.com/ael-bekk/ael-bekk/blob/main/img/download3.png' alt='codeforces' height='70'></a>
  <a href = "https://www.codingame.com/profile/eb5df72bb9beb07d17dd195d9c121c207572164"><img src='https://github.com/ael-bekk/ael-bekk/blob/main/img/download4.png' alt='codingame' height='70'></a>
 </p>
