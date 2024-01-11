@@ -3,7 +3,7 @@
  <a href="https://1337.ma/" target="_blank" rel="noopener noreferrer">1337 Coding School</a></h2>
 <h3 align="center">I love learning new things!🎓</h3>
 
-# 🏫 1337 school
+# 🏫 1337 Coding School
 <div align="center">
   <a href = "https://profile.intra.42.fr/users/ael-bekk" ><img src="https://badge.mediaplus.ma/darkgray/ael-bekk"><a>
 </div>
