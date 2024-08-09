@@ -41,5 +41,4 @@
  <a href = "mailto:abekkali451@gmail.com" > <img src="https://img.shields.io/badge/--email?label=E-mail&logo=microsoft-outlook&style=social" > </a> 
  <a href = "https://twitter.com/Aelbekk" > <img src="https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social" > </a> 
  <a href = "https://www.linkedin.com/in/el-bekkali-abdellah-a812aa241/" > <img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social" > </a> 
- <a href = "https://m.facebook.com/abdellah.bekkali.77?eav=AfaLQ0NmpdT3uDwGCQyDIkIYOJR_wS_zS7Pum6rlRC2o7Qq2AMCB_tjALZ2qttv70ug&paipv=0" > <img src="https://img.shields.io/badge/--facebook?label=Facebook&logo=Facebook-outlook&style=social" > </a> 
  <a href = "https://www.youtube.com/channel/UCZNBu4ZQ0rOPXQ1p8-pOt2A" > <img src="https://img.shields.io/youtube/channel/views/UCZNBu4ZQ0rOPXQ1p8-pOt2A?style=social" >  </a>
